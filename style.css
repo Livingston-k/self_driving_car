@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: darkgray;
+    background: #000;
     overflow: hidden;
     display: flex;
     justify-content: center;
